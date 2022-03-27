@@ -1,7 +1,7 @@
 <h1 align="center">Oii! Eu sou o Nivaldo Filho</h1>
 <h3 align="center">Atualmente, faço faculdade de Engenharia de Software e estou me aprofundando em Data Science.</h3>
 
-- 🌱 Estou aprendendo **Mysql e Power BI**
+- 🌱 Estou aprendendo **SQL e Power BI**
 
 - 💬 Me pergunte sobre **Python**
 
