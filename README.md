@@ -1,11 +1,9 @@
 <h1 align="center">Oii! Eu sou o Nivaldo Filho</h1>
-<h3 align="center">Atualmente, faço faculdade de Engenharia de Software e estou me aprofundando em Data Science.</h3>
+<h3 align="center">Atualmente, faço faculdade de Engenharia de Software e estou me aprofundando em Back-end.</h3>
 
-- 🌱 Estou aprendendo **SQL e Power BI**
+- 💬 Me pergunte sobre **Java**
 
-- 💬 Me pergunte sobre **Python**
-
-- 📫 Você pode me encontrar através do e-mail **devnivads@gmail.com**
+- 📫 Você pode me encontrar através do e-mail **devnivaldo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
