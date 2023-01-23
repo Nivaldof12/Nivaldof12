@@ -6,4 +6,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Nivaldof12&theme=onestar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<div align="center"> 
+<a href="https://www.instagram.com/nivaldof12/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:devnivaldo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nivaldofsfilho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style=target="_blank"></a> 
+ </div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=120&section=footer"/>
