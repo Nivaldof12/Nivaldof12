@@ -23,5 +23,9 @@
 <a href = "mailto:devnivaldo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nivaldofsfilho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style=target="_blank"></a> 
  </div>
+ 
+ <br><br>
+ 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Nivaldof12&label=Profile%20Views&color=0073CE&style=for-the-badge"/></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=120&section=footer"/>
